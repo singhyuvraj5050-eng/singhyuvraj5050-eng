@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend devlopment**
 
-- 👨‍💻 All of my projects are available at [https://github.com/singhyuvraj5050-eng/-yuvraj_30/](Finalhttps://github.com/singhyuvraj5050-eng/-yuvraj_30/)
+- 👨‍💻 All of my projects are available at [https://github.com/singhyuvraj5050-eng/-yuvraj_30/](Finalhttps://github.com/singhyuvraj5050-eng)
 
 - 💬 Ask me about **react, JavaScript**
 
